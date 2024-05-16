@@ -1,6 +1,12 @@
 # Hi there, I'm Michael Riebenbauer 👋
 
-I'm a newly trained backend programmer from the IT Academy in Barcelona. Starting with the fundamentals of JavaScript, I had the opportunity to specialize in Node.js and TypeScript. It's been an intense and intensely rewarding experience where I've had the chance to work with many modern technologies, including Docker and various databases. The bootcamp, which lasted four months, followed a mentored self-learning methodology and implemented work in sprints. For my final project, I collaborated with a team to develop the backend for a REST API, implementing persistence in MySQL using Prisma. I'm a native German speaker and proficient in English and Spanish with a C1 level of fluency.
+## 🎓 My Background
+
+I'm a newly trained backend programmer from the IT Academy in Barcelona. Starting with the fundamentals of JavaScript, I had the opportunity to specialize in Node.js and TypeScript. The bootcamp, which lasted four months, followed a mentored self-learning methodology and implemented work in sprints. For my final project, I collaborated with a team to develop the backend for a REST API, implementing persistence in MySQL using Prisma.
+
+## 🌐 Languages
+
+I'm a native German speaker and proficient in English and Spanish with a C1 level of fluency.
 
 ## 🛠️ Technologies & Tools
 
@@ -37,4 +43,10 @@ I'm a newly trained backend programmer from the IT Academy in Barcelona. Startin
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/desktop/wsl)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
+
+### 📚Currently Learning
+
+[![Zod](https://img.shields.io/badge/-Zod-00008B?style=flat-square&logoColor=white)](https://zod.dev/)
+[![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat-square&logoColor=black)](https://github.com/ollama/ollama)
+
 
