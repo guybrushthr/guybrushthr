@@ -35,7 +35,6 @@ I'm a newly trained backend programmer from the IT Academy in Barcelona. Startin
 
 ### 💻 Operating Systems I use:
 
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/desktop/wsl)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 
